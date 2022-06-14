@@ -1,5 +1,5 @@
 Proceso factura_de_la_electricidad
-	escribir "Ingresar los cargos de unidades de electricicidad"
+	escribir "Ingresar los cargos de unidades de electricidad"
 	definir n Como entero
 	leer n 
 	Si n<0 Entonces
